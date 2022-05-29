@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(0, 234, 255);
+}
+#video{
+    width: 100%;
+    height: 500px;
+    border: solid 2px rgb(0, 89, 255);
+}
+#videos{
+    text-align: center;
+}
+#text{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+    color:black;
+}
+.travel_mainDiv{
+    border: 2px solid white;
+}
+.travel_mainDiv img{
+    width: 100%;
+    border: 3px solid white;
+}
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text span{
+    color: orange;
+}
+.backgroundimg{
+    background-image: url(pngtree-vector-school-bag-calculator-cyan-cartoon-banner-image_166801.jpg);
+filter: blur(2px);
+width: 100%;
+}
+#school_achievement1{
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    text-align: center;
+}
